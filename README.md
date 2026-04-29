@@ -61,7 +61,7 @@ curl -X POST http://localhost:8000/analyze \
 ```
 **Response:**
 ```json
-{"label": "low_concern", "confidence": 0.85}
+{"label": "low_concern", "confidence": 0.7}
 ```
 
 ## Interactive API documentation
